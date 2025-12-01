@@ -69,7 +69,7 @@ Click below to watch the video walkthrough:
 | `Accident_analysis_presentation.pdf` | Executive summary of insights |
 | `CoreTech lab.pdf` | Official task requirements & objectives |
 | `Road_Accident_Dashboard.png` | Dashboard screenshot |
-| *(Optional: Video.mp4)* | Dashboard demo if uploaded |
+| `Video.mp4`| Dashboard demo |
 
 ---
 
