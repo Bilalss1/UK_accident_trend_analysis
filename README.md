@@ -26,6 +26,14 @@ Pivot tables ▪ Data modeling ▪ KPIs ▪ Slicers ▪ Geo-mapping
 
 ---
 
+## Dashboard Demo
+
+Click below to watch the interactive Excel dashboard in action:
+
+[🎥 Download Dashboard Video](videopresentation.mp4)
+
+---
+
 ## 🔍 What the Dashboard Reveals
 
 ### 🚑 Accident Impact
