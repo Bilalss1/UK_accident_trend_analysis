@@ -30,7 +30,7 @@ Pivot tables ▪ Data modeling ▪ KPIs ▪ Slicers ▪ Geo-mapping
 
 Click below to watch the video walkthrough:
 
-🎥 [Download Video Demo](Video.mp4)
+🎥 [Download Video Demo](video.mp4)
 
 ---
 
